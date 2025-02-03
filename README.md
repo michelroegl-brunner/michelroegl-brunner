@@ -27,7 +27,8 @@
   
   ## 🌟 Top Projects I Follow & Recommend
 
-    ### 🖥️ Server & Infrastructure
+  ### 🖥️ Server & Infrastructure
+    
   <a href="https://github.com/community-scripts/ProxmoxVE">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=community-scripts&repo=ProxmoxVE&theme=material-palenight" />
   </a>
