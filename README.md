@@ -12,6 +12,7 @@
 ---
 
 <div align="center">  
+  
   ## 🔧 Technologies & Tools
   
   ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7c4dff)
