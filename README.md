@@ -3,6 +3,8 @@
 <div align="center">
   
   ## 💡 About Me
+
+   **Teacher** @HTL Braunau am Inn for Computer Science
   
    **Maintainer** of the [Proxmox Helper Scripts](https://github.com/community-scripts/ProxmoxVE), continuing the legacy of tteck </br>
    **Support us** on [Ko-Fi](https://ko-fi.com/community_scripts) to help fund the development of these open-source tools</br>
