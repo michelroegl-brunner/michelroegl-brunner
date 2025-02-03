@@ -34,6 +34,11 @@
   <a href="https://github.com/community-scripts/ProxmoxVE">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=community-scripts&repo=ProxmoxVE&theme=material-palenight" />
   </a>
+  <a href="https://github.com/glpi-project/glpi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glpi-project&repo=glpi&theme=material-palenight" />
+  </a>
+  
+  
 
   ### 📸 Media & Document Management
   <a href="https://github.com/paperless-ngx/paperless-ngx">
