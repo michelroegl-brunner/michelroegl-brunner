@@ -49,4 +49,21 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paperless-ngx&repo=paperless-ngx&theme=material-palenight" />
   </a>
 
+
+<details>
+ <summary>
+
+  ## 📈 My Github Stats</summary>
+  ![](https://github-readme-stats.vercel.app/api?username=michelroegl-brunner3&show_icons=true&locale=en&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michelroegl-brunner&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michelroegl-brunner&theme=tokyonight)
+
+  
+
+</details>
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=michelroegl-brunner.michelroegl-brunner)
+
 </div>
