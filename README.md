@@ -30,7 +30,7 @@
   ### 🖥️ Server & Infrastructure
     
   <a href="https://github.com/community-scripts/ProxmoxVE-local">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=community-scripts&repo=ProxmoxVE&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=community-scripts&repo=ProxmoxVE-local&theme=material-palenight" />
   </a>
   <a href="https://github.com/community-scripts/ProxmoxVE">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=community-scripts&repo=ProxmoxVE&theme=material-palenight" />
