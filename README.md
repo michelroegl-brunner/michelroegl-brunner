@@ -50,19 +50,12 @@
   </a>
 
 
-<details>
  <summary>
 
   ## 📈 My Github Stats</summary>
   ![](https://github-readme-stats.vercel.app/api?username=michelroegl-brunner&show_icons=true&locale=en&theme=tokyonight)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michelroegl-brunner&theme=tokyonight)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michelroegl-brunner&theme=tokyonight)
-
-  
-
-</details>
-
----
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=michelroegl-brunner.michelroegl-brunner)
 
